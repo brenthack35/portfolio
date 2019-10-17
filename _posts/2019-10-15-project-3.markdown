@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 3
+date: 2019-10-15
+img: shyft.png
+alt: Shyft Careers
+project-date: March 2019
+client: Shyft Careers
+category: Wordpress
+description: Custom Responsive Wordpress Site – Design and Build <a href="https://shyftcareers.com/" target="_blank">View Site ></a>
+link: https://shyftcareers.com/
+
+---

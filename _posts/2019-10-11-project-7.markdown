@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 7
+date: 2019-10-11
+img: accion.png
+alt: Accion
+project-date: 2017
+client: Accion
+category: Custom Responsive Site - Blackbaud Products
+description: Custom Responsive Site – Design and Build <a href="https://accion.org/" target="_blank">View Site ></a>
+link: https://accion.org/
+
+---

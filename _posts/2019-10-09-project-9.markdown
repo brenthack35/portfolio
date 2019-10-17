@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 9
+date: 2019-10-09
+img: wyoming-stock.png
+alt: Wyoming Stock Growers
+project-date: 2017
+client: Wyoming Stock Growers
+category: Custom Responsive Site - Blackbaud Products
+description: Custom Responsive Site – Design and Build <a href="https://www.wsgalt.org/" target="_blank">View Site ></a>
+link: https://www.wsgalt.org/
+
+---

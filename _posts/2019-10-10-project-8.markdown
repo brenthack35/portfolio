@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 8
+date: 2019-10-10
+img: ags.png
+alt: Agent Survival Guide Blog
+project-date: 2018
+client: Agent Survival Guide | Ritter Insurance Marketing
+category: Jekyll Static Blog Site
+description: Custom Responsive Jekyll/Liquid Static Site – Design and Build <a href="https://agentsurvivalguide.com/" target="_blank">View Site ></a>
+link: https://agentsurvivalguide.com/
+
+---

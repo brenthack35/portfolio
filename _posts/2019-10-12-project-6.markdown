@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 6
+date: 2019-10-12
+img: medicareful-living.png
+alt: Medicareful Living Blog
+project-date: June 2019
+client: Medicareful Living | Ritter Insurance Marketing
+category: Jekyll Static Blog Site
+description: Custom Responsive Jekyll/Liquid Static Site – Design and Build <a href="https://living.medicareful.com/" target="_blank">View Site ></a>
+link: https://living.medicareful.com/
+
+---

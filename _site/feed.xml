@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator>
+  <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2019-10-17T15:59:14-04:00</updated>
+  <id>http://localhost:4000/</id>
+
+  
+    <title type="html">Brent Hackman</title>
+  
+
+  
+    <subtitle>A Web Developer with over 17 years of overall experience in design and development of web-based applications, e-commerce solutions, websites and responsive/mobile.</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Project 1</title>
+      <link href="http://localhost:4000/shopify%20development/2019/10/17/project-1/" rel="alternate" type="text/html" title="Project 1" />
+      <published>2019-10-17T00:00:00-04:00</published>
+      <updated>2019-10-17T00:00:00-04:00</updated>
+      <id>http://localhost:4000/shopify%20development/2019/10/17/project-1</id>
+      <content type="html" xml:base="http://localhost:4000/shopify%20development/2019/10/17/project-1/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Shopify Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Project 2</title>
+      <link href="http://localhost:4000/shopify%20development/2019/10/16/project-2/" rel="alternate" type="text/html" title="Project 2" />
+      <published>2019-10-16T00:00:00-04:00</published>
+      <updated>2019-10-16T00:00:00-04:00</updated>
+      <id>http://localhost:4000/shopify%20development/2019/10/16/project-2</id>
+      <content type="html" xml:base="http://localhost:4000/shopify%20development/2019/10/16/project-2/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Shopify Development" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Project 3</title>
+      <link href="http://localhost:4000/wordpress/2019/10/15/project-3/" rel="alternate" type="text/html" title="Project 3" />
+      <published>2019-10-15T00:00:00-04:00</published>
+      <updated>2019-10-15T00:00:00-04:00</updated>
+      <id>http://localhost:4000/wordpress/2019/10/15/project-3</id>
+      <content type="html" xml:base="http://localhost:4000/wordpress/2019/10/15/project-3/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Wordpress" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Project 4</title>
+      <link href="http://localhost:4000/wordpress/2019/10/14/project-4/" rel="alternate" type="text/html" title="Project 4" />
+      <published>2019-10-14T00:00:00-04:00</published>
+      <updated>2019-10-14T00:00:00-04:00</updated>
+      <id>http://localhost:4000/wordpress/2019/10/14/project-4</id>
+      <content type="html" xml:base="http://localhost:4000/wordpress/2019/10/14/project-4/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Wordpress" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Project 5</title>
+      <link href="http://localhost:4000/jekyll%20static%20site/2019/10/13/project-5/" rel="alternate" type="text/html" title="Project 5" />
+      <published>2019-10-13T00:00:00-04:00</published>
+      <updated>2019-10-13T00:00:00-04:00</updated>
+      <id>http://localhost:4000/jekyll%20static%20site/2019/10/13/project-5</id>
+      <content type="html" xml:base="http://localhost:4000/jekyll%20static%20site/2019/10/13/project-5/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Jekyll Static Site" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Project 6</title>
+      <link href="http://localhost:4000/jekyll%20static%20blog%20site/2019/10/12/project-6/" rel="alternate" type="text/html" title="Project 6" />
+      <published>2019-10-12T00:00:00-04:00</published>
+      <updated>2019-10-12T00:00:00-04:00</updated>
+      <id>http://localhost:4000/jekyll%20static%20blog%20site/2019/10/12/project-6</id>
+      <content type="html" xml:base="http://localhost:4000/jekyll%20static%20blog%20site/2019/10/12/project-6/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Jekyll Static Blog Site" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Project 7</title>
+      <link href="http://localhost:4000/custom%20responsive%20site%20-%20blackbaud%20products/2019/10/11/project-7/" rel="alternate" type="text/html" title="Project 7" />
+      <published>2019-10-11T00:00:00-04:00</published>
+      <updated>2019-10-11T00:00:00-04:00</updated>
+      <id>http://localhost:4000/custom%20responsive%20site%20-%20blackbaud%20products/2019/10/11/project-7</id>
+      <content type="html" xml:base="http://localhost:4000/custom%20responsive%20site%20-%20blackbaud%20products/2019/10/11/project-7/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Custom Responsive Site - Blackbaud Products" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Project 8</title>
+      <link href="http://localhost:4000/jekyll%20static%20blog%20site/2019/10/10/project-8/" rel="alternate" type="text/html" title="Project 8" />
+      <published>2019-10-10T00:00:00-04:00</published>
+      <updated>2019-10-10T00:00:00-04:00</updated>
+      <id>http://localhost:4000/jekyll%20static%20blog%20site/2019/10/10/project-8</id>
+      <content type="html" xml:base="http://localhost:4000/jekyll%20static%20blog%20site/2019/10/10/project-8/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Jekyll Static Blog Site" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Project 9</title>
+      <link href="http://localhost:4000/custom%20responsive%20site%20-%20blackbaud%20products/2019/10/09/project-9/" rel="alternate" type="text/html" title="Project 9" />
+      <published>2019-10-09T00:00:00-04:00</published>
+      <updated>2019-10-09T00:00:00-04:00</updated>
+      <id>http://localhost:4000/custom%20responsive%20site%20-%20blackbaud%20products/2019/10/09/project-9</id>
+      <content type="html" xml:base="http://localhost:4000/custom%20responsive%20site%20-%20blackbaud%20products/2019/10/09/project-9/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Custom Responsive Site - Blackbaud Products" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

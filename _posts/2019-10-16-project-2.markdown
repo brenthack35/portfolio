@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 2
+date: 2019-10-16
+img: vmb.png
+alt: Vanscoy Maurer & Bash Jewelers
+project-date: June 2019
+client: Vanscoy Maurer & Bash Jewelers
+category: Shopify Development
+description: Custom Responsive Shopify Site – Design and Build <a href="https://vmbjewelers.com/" target="_blank">View Site ></a>
+link: https://vmbjewelers.com/
+
+---

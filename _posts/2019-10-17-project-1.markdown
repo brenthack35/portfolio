@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 1
+date: 2019-10-17
+img: mpamusement.png
+alt: M&P Amusement
+project-date: July 2019
+client: M&P Amusement
+category: Shopify Development
+description: Custom Responsive Shopify Site – Design and Build <a href="https://mpamusement.com/" target="_blank">View Site ></a>
+link: https://mpamusement.com/
+
+---
