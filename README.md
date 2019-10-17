@@ -1,4 +1,4 @@
-# portfolio
+# My Portfolio
 Samples of my work:
 
 ## M&P Amusement
